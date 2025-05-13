@@ -1,8 +1,14 @@
 # SSH-GUI
-A simple python SSH file manager
+A simple python SSH local file manager
 ---------------------------------------------
 
 Easy to use and connect
+-------------------------
+Most of the buttons are fairly self explanatory. 
+
+This is designed for local file management between machines via ssh.
+
+When connected to a machine, click "list files" to see the base directory. (I plan to add a better file brower system, along with folder upload/download)
 
 ---------------------------------------------
 
