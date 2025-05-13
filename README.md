@@ -13,3 +13,5 @@ When connected to a machine, click "list files" to see the base directory. (I pl
 ---------------------------------------------
 
 Updates will comes as needed
+
+![ssh-manager-preview](https://github.com/user-attachments/assets/d3d1a41c-060e-4b68-ad69-5761283369f6)
